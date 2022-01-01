@@ -1,4 +1,2 @@
 Change in file.
 New changes in this file override previous ones.
-
-Adding new think by master.
